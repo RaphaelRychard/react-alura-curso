@@ -23,6 +23,12 @@
       "react-app/jest"
     ]
   },
+  "rules": {
+    "react/jsx-indent": [
+      2,
+      2
+    ]
+  },
   "browserslist": {
     "production": [
       ">0.2%",

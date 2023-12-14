@@ -10,9 +10,9 @@ const Index = (props) => {
                 {props.label}
             </label>
             <input type="text"
-                   name={`input_${props.label}`}
-                   id={props.label}
-                   placeholder={placeholderModificada}
+                name={`input_${props.label}`}
+                id={props.label}
+                placeholder={placeholderModificada}
             />
         </div>
     )

@@ -1,4 +1,4 @@
-import './index.css'
+import './banner.css'
 
 const Index = () => {
     return (
