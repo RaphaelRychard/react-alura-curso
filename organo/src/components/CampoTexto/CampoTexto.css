@@ -1,0 +1,32 @@
+.campo-texto {
+    margin: 24px 0;
+}
+
+.campo-texto label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 1em;
+    text-transform: capitalize;
+}
+
+.campo-texto input {
+    box-sizing: border-box;
+    background-color: #ffffff;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 100%;
+    border: 1px solid rgba(211, 211, 211, 0.44);
+    font-size: 1em;
+    padding: 15px;
+    outline: none;
+    transition: 500ms all linear;
+}
+
+.campo-texto input:hover{
+    border: 1px solid #6278f7;
+}
+
+.campo-texto input:focus {
+    border: 1px solid #3d3d3d;
+}
+
+
