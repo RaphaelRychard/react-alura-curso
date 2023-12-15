@@ -1,30 +1,63 @@
 import './Formulario.css'
 import CampoTexto from "../CampoTexto";
 import ListaSuspensa from "../ListaSuspensa";
+import Botao from "../Botao";
+import {useState} from "react";
 
-const Formulario = () => {
+const Formulario = (props) => {
 
-    const times = [
-        'Programação',
-        'Front-End',
-        "Data Science",
-        'Devops',
-        'UX e Desing',
-        'Mobile',
-        'Inovação e Gestão'
-    ]
+  const [nome, setNome] = useState('')
+  const [cargo, setCargo] = useState('')
+  const [imagem, setImagem] = useState('')
+  const [time, setTime] = useState('')
 
-    return (
-        <section className="formulario">
-            <form>
-                <h2>Preenche os dados para criar o card do colaborador</h2>
-                <CampoTexto label="nome" placeholder="Digie seu nome"/>
-                <CampoTexto label="cargo" placeholder="Digie seu cargo"/>
-                <CampoTexto label="image" placeholder="Digie o endereço da sua imagem"/>
-                <ListaSuspensa label="Times" itens={times}/>
-            </form>
-        </section>
-    )
+  const aoSalvar = (event) => {
+    event.preventDefault()
+    props.aoColaboradorCadatrado(({
+      nome, cargo, imagem, time
+    }))
+  }
+
+  return (<section className="formulario">
+      <form onSubmit={aoSalvar}>
+        <h2>Preenche os dados para criar o card do colaborador</h2>
+
+        <CampoTexto
+          required={true}
+          label="nome"
+          placeholder="Digie seu nome"
+          valor={nome}
+          aoAlterado={valor => setNome(valor)}
+        />
+
+        <CampoTexto
+          required={true}
+          label="cargo"
+          placeholder="Digie seu cargo"
+          valor={cargo}
+          aoAlterado={valor => setCargo(valor)}
+        />
+
+        <CampoTexto
+          label="image"
+          placeholder="Digie o endereço da sua imagem"
+          valor={imagem}
+          aoAlterado={valor => setImagem(valor)}
+        />
+
+        <ListaSuspensa
+          required={true}
+          label="Times"
+          itens={props.times}
+          valor={time}
+          aoAlterado={valor => setTime(valor)}
+        />
+
+        <Botao>
+          Criar Card
+        </Botao>
+      </form>
+    </section>)
 }
 
 export default Formulario

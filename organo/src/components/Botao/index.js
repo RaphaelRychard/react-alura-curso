@@ -1,13 +1,11 @@
 import './Botao.css';
 
-const Botao = () => {
-
-    return (
-        <button>
-
-        </button>
-    )
-
+const index = (props) => {
+  return (
+    <button className="botao">
+      {props.children}
+    </button>
+  )
 }
 
-export default Botao
+export default index
