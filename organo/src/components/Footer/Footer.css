@@ -1,0 +1,29 @@
+.footer {
+    background-color: #6278F7;
+    display: flex;
+    justify-items: center;
+    justify-content: space-around;
+    padding: 120px 60px;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.footer p {
+    color: white;
+    font-weight: bold;
+}
+
+.footer div{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.footer .icons img {
+  padding: 0 10px;
+}
+
+.footer p {
+
+}

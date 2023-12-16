@@ -2,7 +2,7 @@ import Banner from "./components/Banner";
 import Formulario from "./components/Formulario";
 import {useState} from "react";
 import Time from "./components/Time";
-import colaborador from "./components/Colaborador";
+import Footer from "./components/Footer";
 
 function App() {
 
@@ -42,7 +42,7 @@ function App() {
   const [colaboradores, setColaboradors] = useState([])
 
   const aoNovoColaboradorAdionado = (colaborador) => {
-    console.log(colaborador)
+    debugger
     setColaboradors([...colaboradores, colaborador])
   }
 
@@ -57,6 +57,9 @@ function App() {
           corSecundaria={time.corSecundaria}
           colcaboradores={colaboradores.filter(colaborador => colaborador.time === time.nome)}
       />)}
+      <Footer cridador='Desenvolvido por Alura' />
+
+
     </div>
   );
 }
