@@ -1,6 +1,6 @@
 import {Fragment, useState} from "react";
 import Link from "../src/components/Link";
-import LinkStyle from "../src/components/LinkEstilizado";
+import LinkStyle from "../src/components/LinkStyle";
 
 export function Title({children, as}) {
 

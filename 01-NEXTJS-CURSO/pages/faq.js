@@ -1,5 +1,5 @@
 import Link from "../src/components/Link";
-import LinkStyle from "../src/components/LinkEstilizado";
+import LinkStyle from "../src/components/LinkStyle";
 
 export default function FAQPage() {
   return (<div>
