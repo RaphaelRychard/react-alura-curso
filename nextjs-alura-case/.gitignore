@@ -129,9 +129,3 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-#ide
-.idea/.gitignore
-.idea/modules.xml
-.idea/vcs.xml
-.idea/workspace.xml
-.idea/
