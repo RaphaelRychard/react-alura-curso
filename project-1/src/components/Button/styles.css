@@ -1,0 +1,17 @@
+.button {
+  width: 100%;
+  background-color: royalblue;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  cursor: pointer;
+
+  position: fixed;
+  bottom: 5px;
+  left: 0;
+}
+
+.button:disabled {
+  background-color: rgba(155, 155, 155, 0.72);
+  cursor: default;
+}

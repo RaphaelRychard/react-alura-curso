@@ -1,0 +1,14 @@
+.text-input {
+  width: 100%;
+  font-size: 1.2em;
+  padding: 10px 20px;
+  border: 1px solid transparent;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+  outline: none;
+}
+
+.text-input:hover, .text-input:focus {
+  border-color: royalblue;
+}
+

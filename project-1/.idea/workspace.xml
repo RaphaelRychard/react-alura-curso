@@ -5,30 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e40e1d2c-c612-49ee-80b4-5565d3432383" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../01-NEXTJS-CURSO/src/components/patterns/Footer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01-NEXTJS-CURSO/src/screens/HomeScreens/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01-NEXTJS-CURSO/src/theme/components.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01-NEXTJS-CURSO/src/theme/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PostCard/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Posts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/Home/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/Home/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/load-posts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-NEXTJS-CURSO/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../01-NEXTJS-CURSO/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-NEXTJS-CURSO/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01-NEXTJS-CURSO/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-NEXTJS-CURSO/src/components/Link/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01-NEXTJS-CURSO/src/components/Link/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-NEXTJS-CURSO/src/theme/GloabalStyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01-NEXTJS-CURSO/src/theme/GloabalStyle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-NEXTJS-CURSO/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../01-NEXTJS-CURSO/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/pages/404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/pages/faq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/public/images/alura-cases.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/public/images/alura-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/src/components/Link/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/src/components/patterns/Footer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/src/screens/HomeScreens/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/src/theme/GlobalStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/src/theme/components.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/src/theme/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.spec.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PostCard/PostCard.spec.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PostCard/mock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PostCard/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Posts/Posts.spec.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchInput/TextInput.spec.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchInput/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchInput/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/Home/Home.test.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-alura-case/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nextjs-alura-case/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-alura-case/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../nextjs-alura-case/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nextjs-alura-case/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../nextjs-alura-case/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/Home/Home.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/global-styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PostCard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostCard/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Posts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/Home/Home.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/Home/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/Home/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/Home/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/Home/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/load-posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/load-posts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +50,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="JSX File" />
+        <option value="HTTP Request" />
       </list>
     </option>
   </component>
@@ -55,27 +69,33 @@
   <component name="ProjectId" id="2ZeQuHuvWhI3XmlMnDKeXxL8GHu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.start.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.JavaScript.Linters&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.3.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last.edited.regexp": "Sample Text",
+    "last_opened_file_path": "C:/Users/Raphael Rychard/WebstormProjects/react-alura-curso/project-1/src/components/Button",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.coverage.executor": "Run",
+    "npm.coverageAll.executor": "Run",
+    "npm.start.executor": "Run",
+    "npm.test.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -86,12 +106,79 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Raphael Rychard\WebstormProjects\react-alura-curso\project-1\src\components\Button" />
+      <recent name="C:\Users\Raphael Rychard\WebstormProjects\react-alura-curso\project-1\src\components\PostCard" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Workspace\react-alura-curso\project-1\src\styles" />
       <recent name="C:\Workspace\react-alura-curso\project-1\src\templates\Home" />
       <recent name="C:\Workspace\react-alura-curso\project-1\src" />
       <recent name="C:\Workspace\react-alura-curso\project-1\src\components" />
     </key>
+  </component>
+  <component name="RunManager" selected="npm.coverage">
+    <configuration name="coverage" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="coverage" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="coverageAll" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="coverageAll" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="eject" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="npm" />
+        <script value="test" />
+        <script value="--" />
+        <script value="--coverage" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.coverageAll" />
+        <item itemvalue="npm.coverage" />
+        <item itemvalue="npm.test" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -108,6 +195,17 @@
       <workItem from="1702809744350" duration="871000" />
       <workItem from="1702810785963" duration="70000" />
       <workItem from="1702821996959" duration="18628000" />
+      <workItem from="1704225572611" duration="4504000" />
+      <workItem from="1704231499529" duration="1616000" />
+      <workItem from="1704286434931" duration="6003000" />
+      <workItem from="1704296689790" duration="63000" />
+      <workItem from="1704296776701" duration="3636000" />
+      <workItem from="1704316198369" duration="1106000" />
+      <workItem from="1704333137888" duration="1947000" />
+      <workItem from="1704363728998" duration="1825000" />
+      <workItem from="1704369801282" duration="6849000" />
+      <workItem from="1704457903870" duration="18478000" />
+      <workItem from="1704502803676" duration="4188000" />
     </task>
     <servers />
   </component>

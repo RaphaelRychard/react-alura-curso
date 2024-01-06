@@ -1,4 +1,4 @@
-export const loadPosts = async () => {
+export const loadPost = async () => {
   const postsResponse = fetch('https://jsonplaceholder.typicode.com/posts');
   const photosResponse = fetch('https://jsonplaceholder.typicode.com/photos');
 
@@ -8,6 +8,9 @@ export const loadPosts = async () => {
   const photosJson = await photos.json();
 
   return postsJson.map((post, index) => {
-    return {...post, cover: photosJson[index].url}
-  })
+    return {
+      ...post,
+      cover: photosJson[index].url
+    }
+  });
 }
