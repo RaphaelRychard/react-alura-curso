@@ -5,47 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e40e1d2c-c612-49ee-80b4-5565d3432383" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/next.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/pages/404.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/pages/_app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/pages/faq.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/public/images/alura-cases.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/public/images/alura-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/src/components/Link/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/src/components/patterns/Footer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/src/screens/HomeScreens/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/src/theme/GlobalStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/src/theme/components.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextjs-alura-case/src/theme/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.spec.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PostCard/PostCard.spec.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PostCard/mock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PostCard/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Posts/Posts.spec.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchInput/TextInput.spec.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchInput/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchInput/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/Home/Home.test.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nextjs-alura-case/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nextjs-alura-case/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nextjs-alura-case/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../nextjs-alura-case/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nextjs-alura-case/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../nextjs-alura-case/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PostCard/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Posts/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project-1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PostCard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostCard/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Posts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/Home/Home.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.spec.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.spec.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PostCard/PostCard.spec.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostCard/PostCard.spec.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PostCard/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PostCard/mock.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostCard/mock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Posts/Posts.spec.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/Posts.spec.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Posts/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SearchInput/TextInput.spec.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchInput/TextInput.spec.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SearchInput/__snapshots__/TextInput.spec.jsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchInput/__snapshots__/TextInput.spec.jsx.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SearchInput/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchInput/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/Home/Home.test.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/Home/Home.test.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/templates/Home/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/Home/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/Home/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/Home/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utils/load-posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/load-posts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EditorConfigPreviewManager">
+    <editorConfig file="$PROJECT_DIR$/.editorconfig" previewFile="$PROJECT_DIR$/.editorconfig" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,11 +48,31 @@
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RaphaelRychard"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="743a8091-d3e7-447f-9cb7-fb209600f02d" />
+        <option name="url" value="https://github.com/RaphaelRychard/react-alura-curso.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -72,30 +83,31 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last.edited.regexp": "Sample Text",
-    "last_opened_file_path": "C:/Users/Raphael Rychard/WebstormProjects/react-alura-curso/project-1/src/components/Button",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.coverage.executor": "Run",
-    "npm.coverageAll.executor": "Run",
-    "npm.start.executor": "Run",
-    "npm.test.executor": "Run",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last.edited.regexp&quot;: &quot;Sample Text&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Raphael Rychard/WebstormProjects/react-alura-curso/project-1/src/components/Button&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;C:/Users/Raphael Rychard/WebstormProjects/react-alura-curso/project-1/node_modules/react-scripts&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.coverage.executor&quot;: &quot;Run&quot;,
+    &quot;npm.coverageAll.executor&quot;: &quot;Run&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;npm.test.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -117,7 +129,7 @@
       <recent name="C:\Workspace\react-alura-curso\project-1\src\components" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.coverage">
+  <component name="RunManager" selected="npm.test">
     <configuration name="coverage" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -173,10 +185,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.coverageAll" />
-        <item itemvalue="npm.coverage" />
         <item itemvalue="npm.test" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.coverageAll" />
+        <item itemvalue="npm.coverage" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +217,14 @@
       <workItem from="1704363728998" duration="1825000" />
       <workItem from="1704369801282" duration="6849000" />
       <workItem from="1704457903870" duration="18478000" />
-      <workItem from="1704502803676" duration="4188000" />
+      <workItem from="1704502803676" duration="4599000" />
+      <workItem from="1704540721391" duration="2655000" />
+      <workItem from="1704544659362" duration="215000" />
+      <workItem from="1704544991156" duration="1205000" />
+      <workItem from="1704546226212" duration="44000" />
+      <workItem from="1704546313847" duration="561000" />
+      <workItem from="1704547801814" duration="180000" />
+      <workItem from="1704547999761" duration="4838000" />
     </task>
     <servers />
   </component>

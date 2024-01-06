@@ -10,7 +10,7 @@ export const loadPost = async () => {
   return postsJson.map((post, index) => {
     return {
       ...post,
-      cover: photosJson[index].url
-    }
+      cover: photosJson[index].url,
+    };
   });
-}
+};
